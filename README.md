@@ -71,16 +71,7 @@ It showcases:
 
 ---
 
-## 📸 Screenshots
 
-![Uploading screencapture-xenon-rgv-github-io-weather-app-2025-09-19-03_45_40.png…]()
-
-
-**Desktop View**
-![Desktop screenshot](screenshot-desktop.png)
-
-**Mobile View**
-![Mobile screenshot](screenshot-mobile.png)
 
 ---
 
@@ -134,4 +125,3 @@ open index.html   # or just double-click file
 
 ---
 
-Would you like me to also **add a section with instructions for getting your own API key** (if you’re using OpenWeatherMap or similar)? That’s often useful for others who clone the repo.
